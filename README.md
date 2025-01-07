@@ -199,7 +199,6 @@ Python                   1 repo              █░░░░░░░░░░�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake.svg" />
 </picture>
 ###
 
