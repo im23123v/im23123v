@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### Hi there 👋
+ ![2025-01-07-Vishwanath-Karne](https://github.com/user-attachments/assets/755bb61e-c7e8-46a6-b931-0f2847f21adc)
 
 - 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
  and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
