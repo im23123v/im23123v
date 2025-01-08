@@ -121,8 +121,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
-
-###
+<div align="center">
+  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+</div>
 
 <br clear="both">
 
