@@ -66,7 +66,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake.svg" />
 </picture>
 -->
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@im23123v/30-nites-of-code)  
+  ![@im23123v #30NitesOfCode](https://www.codedex.io/api/petStatus?user=im23123v)
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
