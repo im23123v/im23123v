@@ -1,4 +1,6 @@
 <!-- BASIC ONE DEV ON 8TH JAN 2025
+
+Updates: More adv
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
