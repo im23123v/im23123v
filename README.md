@@ -1,7 +1,7 @@
 <!-- BASIC ONE DEV ON 8TH JAN 2025
 
 Updates: More adv effects
-1. add diff platforms stats
+1. add diff platforms stats real time
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
