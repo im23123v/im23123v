@@ -1,6 +1,7 @@
 <!-- BASIC ONE DEV ON 8TH JAN 2025
 
-Updates: More adv
+Updates: More adv effects
+1. add diff platforms stats
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
