@@ -128,12 +128,12 @@ Updates: More adv effects
 <br clear="both">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/im23123v/im23123v/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/im23123v/im23123v/output/snake.sv" alt="Snake animation" />
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake.sv" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake.svg" />
 </picture>
 <br/>
   <br/>
