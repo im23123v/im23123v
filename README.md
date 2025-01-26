@@ -127,7 +127,7 @@ Updates: More adv effects
 
 <br clear="both">
 
-<div align="center"> 
+<div align="center">  
 <img src="https://raw.githubusercontent.com/im23123v/im23123v/output/snake.svg" alt="Snake animation" />
 </div>
 
