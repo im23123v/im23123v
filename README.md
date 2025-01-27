@@ -1,7 +1,6 @@
 <!-- BASIC ONE DEV ON 8TH JAN 2025
 
-Updates: More adv effects
-1. add diff platforms stats real time
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
@@ -36,8 +35,6 @@ Updates: More adv effects
 
   
 ###
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/vishwanathkarne/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
@@ -57,7 +54,6 @@ Updates: More adv effects
 </div>
 
 ###
-
 <br clear="both">
 
 <div align="center">
@@ -68,8 +64,6 @@ Updates: More adv effects
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im23123v/im23123v/output/github-snake.svg" />
 </picture>
-
-
 -->
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
