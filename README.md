@@ -1,6 +1,6 @@
 <!-- BASIC ONE DEV ON 8TH JAN 2025
 
-<p align="center">
+<p align="center">v 
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 <p align="center">
