@@ -4,7 +4,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 <p align="center"> 
-  <a href="https://github.com/im23123v">
+  <a href="https://github.com/im23123v"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&duration=1&pause=1005&color=7CF702DC&center=true&vCenter=true&width=435&lines=Vishwanath+Karne" alt="Typing SVG" /></a>
 </p>  
 
