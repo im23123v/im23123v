@@ -119,10 +119,7 @@
 <div align="center">
   <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif " height="37px">
 </div>
-<div align="center">
-  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="37px">
-</div>
-<br clear="both">
+
 
 <div align="center">  
 <img src="https://raw.githubusercontent.com/im23123v/im23123v/output/snake.svg" alt="Snake animation" />
