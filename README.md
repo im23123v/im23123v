@@ -120,7 +120,7 @@
   <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif " height="37px">
 </div>
 <div align="center">
-  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif " height="37px">
+  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="37px">
 </div>
 <br clear="both">
 
